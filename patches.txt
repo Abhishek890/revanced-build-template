@@ -1,4 +1,15 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 hide-my-mix
+comments
+always-autorepeat
+debugging
+hide-autoplay-button
+hide-breaking-news-shelf
+hide-captions-button
+hide-cast-button
+hide-create-button
+hide-info-cards
+hide-seekbar
+hide-time
 
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
