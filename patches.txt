@@ -13,4 +13,3 @@ hide-seekbar
 hide-time
 
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-spoof-signature-verification
