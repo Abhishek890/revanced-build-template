@@ -9,6 +9,7 @@ hide-captions-button
 hide-cast-button
 hide-create-button
 hide-info-cards
+hide-timestamp
 hide-seekbar
 hide-time
 
